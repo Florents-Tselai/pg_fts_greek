@@ -1,0 +1,3 @@
+default_version = '0.1'
+relocatable = true
+comment = 'Postgres FTS Improvements for Greek'

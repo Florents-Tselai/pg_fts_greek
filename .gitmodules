@@ -1,0 +1,6 @@
+[submodule "vendor/douros_greek_stopwords"]
+	path = vendor/douros_greek_stopwords
+	url = git@github.com:dourosdimitris/greek_stopwords.git
+[submodule "vendor/pmav99_greek_stopwords"]
+	path = vendor/pmav99_greek_stopwords
+	url = git@github.com:pmav99/greek_stopwords.git

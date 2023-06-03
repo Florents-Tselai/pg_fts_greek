@@ -1,0 +1,11 @@
+# ΑΡΙΘΜΗΤΙΚΑ (WIP)
+# http://ebooks.edu.gr/ebooks/v/html/8547/2334/Grammatiki-Neas-Ellinikis-Glossas_A-B-G-Gymnasiou_html-apli/index_C_04.html
+διπλός
+πενταπλός
+εξαπλός
+διπλάσιος
+πενταπλάσιος
+εξαπλάσιος
+δυάδα
+πεντάδα
+εξάδα
